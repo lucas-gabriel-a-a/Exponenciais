@@ -1,0 +1,1 @@
+Calcula funções e equações exponenciais
